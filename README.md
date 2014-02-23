@@ -20,7 +20,7 @@ A Twitter clone using the following technologies: JSP, Servlets, JavaBeans &amp;
 
 General Usage Notes
 -----------------------------------------------------------
-Go to the following url to view the live example: http://ac32007.cloudapp.net:8080/MarkGoddard/Tweets
+Go to the following url to view the live example: http://ac32007.cloudapp.net:8080/MarkGoddard/Homepage
 You will have to create an account when you irst go, otherwise you can use the test user with the following
 details.
   Username: mgoddard

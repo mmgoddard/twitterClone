@@ -5,12 +5,12 @@ TWITTER CLONE v.1.05 by Mark Goddard
 
 Contents
 -----------------------------------------------------------
-I.    What is it?
-II.   General Usage Notes
-III.  Features (v1.05)
-IV.   Known Bugs
-V.    Upcoming Features (v1.06)
-VI.   Contacts
+- I.    What is it?
+- II.   General Usage Notes
+- III.  Features (v1.05)
+- IV.   Known Bugs
+- V.    Upcoming Features (v1.06)
+- VI.   Contacts
 
 
 What is it?
